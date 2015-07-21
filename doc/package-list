@@ -1,0 +1,7 @@
+datacube.junittest
+datacube.search.parallel
+datacube.search.sequence
+datacube.search.share.abstracts
+datacube.search.share.impl
+datacube.search.share.interfaces
+datacube.validationtest

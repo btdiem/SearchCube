@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="temporary/|datacube/validationtest/Test.java" kind="src" path="src"/>
+	<classpathentry excluding="src/|data/SearchParallePlaneTask.java|data/SearchXYDimension.java|data/SearchXYDimensionTest.java|data/SearchXZDimension.java|data/SearchXZDimensionTest.java|data/SearchYZDimension.java|data/SearchYZDimensionTest.java|data/SearchParallelPlaneTaskTest.java|data/ClsNew3DParallel.java|data/ClsNew3DSequence.java" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
